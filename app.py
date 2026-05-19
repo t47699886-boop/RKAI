@@ -51,5 +51,3 @@ if st.button("AI 요청 전송", type="primary"):
 st.sidebar.markdown("### 🛠️ 시스템 상태")
 st.sidebar.success("구글 AI 엔진: 연결 완료")
 st.sidebar.success("슬랙 웹훅: 연결 완료")
-google-genai
-requests
